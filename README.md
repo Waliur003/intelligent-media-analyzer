@@ -65,9 +65,8 @@ Managing large volumes of visual data is challenging for modern enterprises. Man
 
 2. **Intelligent Analysis Logs**  
    Screenshot of Amazon CloudWatch Logs showing the successful detection of labels from a test image.
-<img width="1919" height="909" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c04a5f21-405d-444c-8de3-cd8d5102aa60" />
-
-<img width="1919" height="910" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c033360e-b3c3-4fb4-8972-4d69929d9c43" />
+   <img width="1919" height="909" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c04a5f21-405d-444c-8de3-cd8d5102aa60" />
+   <img width="1919" height="910" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c033360e-b3c3-4fb4-8972-4d69929d9c43" />
 
 
 4. **Least-Privilege IAM Policy**  
@@ -77,7 +76,6 @@ Managing large volumes of visual data is challenging for modern enterprises. Man
 
 6. **DynamoDB Metadata Verification**  
    Screenshot of the DynamoDB table items showing the ImageID and the AI-generated label list.
-
    <img width="1919" height="861" alt="Screenshot 6" src="https://github.com/user-attachments/assets/e2fb67cb-39d2-4b07-9caa-5afc0ef4f80a" />
 
 
