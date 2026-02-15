@@ -1,4 +1,4 @@
-# Project 04: Intelligent Media Analyzer
+#Cloud Engineering Project 04: Intelligent Media Analyzer
 
 ## Overview
 I have architected and deployed an automated, AI-powered media processing pipeline on AWS. This project demonstrates the integration of Computer Vision into a serverless workflow, where images uploaded to cloud storage are automatically analyzed and indexed without any manual intervention.
