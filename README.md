@@ -59,15 +59,27 @@ Managing large volumes of visual data is challenging for modern enterprises. Man
 ## Verification Screenshots
 1. **S3 Event Notification Configuration**  
    Screenshot of the S3 bucket properties showing the trigger pointing to the Lambda function.
+   <img width="1919" height="910" alt="Screenshot 1" src="https://github.com/user-attachments/assets/525cd1a3-bb84-44a9-a900-8fff55253f87" />
+   <img width="1919" height="910" alt="Screenshot 2" src="https://github.com/user-attachments/assets/467ff871-c878-4e6e-adc1-f943e0c6ed2c" />
+
 
 2. **Intelligent Analysis Logs**  
-   Screenshot of Amazon CloudWatch Logs showing the successful detection of labels (e.g., "Mountain", "Forest") from a test image.
+   Screenshot of Amazon CloudWatch Logs showing the successful detection of labels from a test image.
+<img width="1919" height="909" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c04a5f21-405d-444c-8de3-cd8d5102aa60" />
 
-3. **Least-Privilege IAM Policy**  
+<img width="1919" height="910" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c033360e-b3c3-4fb4-8972-4d69929d9c43" />
+
+
+4. **Least-Privilege IAM Policy**  
    Screenshot of the JSON policy showing granular permissions for S3, Rekognition, and DynamoDB.
+   <img width="1919" height="911" alt="Screenshot 5" src="https://github.com/user-attachments/assets/2b0f4d46-3777-42e4-a731-9494145d3cc2" />
 
-4. **DynamoDB Metadata Verification**  
+
+6. **DynamoDB Metadata Verification**  
    Screenshot of the DynamoDB table items showing the ImageID and the AI-generated label list.
+
+   <img width="1919" height="861" alt="Screenshot 6" src="https://github.com/user-attachments/assets/e2fb67cb-39d2-4b07-9caa-5afc0ef4f80a" />
+
 
 ## Notes / Future Improvements
 - **Web Interface:** I plan to build a simple React frontend to allow users to upload images and see the AI tags in real-time.
