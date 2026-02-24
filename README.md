@@ -55,7 +55,8 @@ Managing large volumes of visual data is challenging for modern enterprises. Man
 - **Confirmed data persistence:** I have explored the DynamoDB table items and verified that the metadata and AI tags were correctly saved for each test image.
 
 ## Architecture Diagram
-- Add your architecture diagram here (image or link).
+![Architecture Diagram](https://github.com/user-attachments/assets/bdb40b47-b285-4cdb-bc6d-dccbada42236)
+
 
 ## Verification Screenshots
 1. **S3 Event Notification Configuration**  
